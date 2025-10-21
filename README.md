@@ -2,6 +2,9 @@
 
 ## 교육
 
+
+
+
 - 학교 기본 정보 데이터셋 [학교 기본 정보](https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17020190531110010104913&infSeq=1)
 
   | 시도교육청코드 | 시도교육청       | 행정표준코드 | 학교명       | 영문학교명          | 학교종류명 | 시도명     | 관할조직명                   | 설립명 |
